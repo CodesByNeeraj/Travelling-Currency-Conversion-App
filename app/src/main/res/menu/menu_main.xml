@@ -8,4 +8,17 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+
+
+    <item
+        android:id = "@+id/action_set_exchangerate"
+        android:title = "Set Exchange Rate"
+        app:showAsAction="never" />
+
+    <item
+        android:id = "@+id/action_set_checkexchangerate"
+        android:title = "Check Exchange Rate"
+        app:showAsAction="never" />
+
 </menu>
+
